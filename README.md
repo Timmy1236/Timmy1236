@@ -22,7 +22,7 @@
 
 <details><summary><h2>👤 Discord</h2></summary>
   <div align="center">  
-    <img width="55%" height="295px" src="https://lanyard.cnrad.dev/api/375889010419171328?theme=dark&bg=0d1117&idleMessage=Offline.)](https://discord.com/users/375889010419171328"/> 
+    <img src="https://lanyard.cnrad.dev/api/375889010419171328?theme=dark&bg=0d1117&idleMessage=Offline.)](https://discord.com/users/375889010419171328"/> 
   </div>
 </details>
 
