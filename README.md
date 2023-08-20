@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, HTML.**
 
-- 📫 How to reach me **[GitHub Email](timmy.1236@outlook.com)**
+- 📫 How to reach me **[GitHub Email](mailto:timmy.1236@outlook.com)**
 
 <br>
 
