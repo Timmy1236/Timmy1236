@@ -1,20 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:22272e,10:001E2B,50:00ED64,90:001E2B,100:22272e&height=200&section=header&text=Hi+%F0%9F%91%8B%2C+%20I'm%20Timmy&fontAlignY=25&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=A%20lazy%20frontend%20and%20backend%20developer%20from%20Uruguay" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:22272e,50:557542,100:22272e&height=200&section=header&text=Hi+%F0%9F%91%8B%2C+%20I'm%20Timmy&fontAlignY=25&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=A%20lazy%20frontend%20and%20backend%20developer%20from%20Uruguay" />
+
+<h2>📄 About Me</h2>
 
 <img align="right" width="200" src="https://media.tenor.com/hEwfEcj2R60AAAAM/laptop-smoking.gif">
 
-- 🔭 I’m currently working on **FitBits**
+- 🔭 I’m currently working on **Leafy**
 
-- 🌱 I’m currently learning **Nothing!**
-
-- 💬 Ask me about **JavaScript, HTML.**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **[GitHub Email](mailto:timmy.1236@outlook.com)**
+
+- 🔗 Website **[timmy1236.me](https://timmy1236.me/)**
 
 <br>
 
 <details><summary><h2>⭐ Skills</h2></summary>
-  <div align="center">  
-    <img width="90%" height="560px" src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,csharp,js,ts,html,css&software=windows,vscode&tools=nodejs,git,npm,firebase,mongodb,vercel&theme=dark&includeNames=true"/> 
+  <div align="center">
+<h4>Frontend</h4>
+    <img width="20%" src="https://skillicons.dev/icons?i=js,html,css"/>
+    <h4>Backend</h4>
+    <img width="20%" src="https://skillicons.dev/icons?i=java,py,cs"/>
+    <h4>Apps</h4>
+    <img width="30%" src="https://skillicons.dev/icons?i=vscode,eclipse,git,godot,unity"/> 
   </div>
 </details>
 
@@ -36,4 +43,4 @@
   </div>
 </details>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:22272e,10:001E2B,50:00ED64,90:001E2B,100:22272e&height=200&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:22272e,50:557542,100:22272e&height=200&section=footer" />
