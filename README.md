@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **[GitHub Email](mailto:timmy.1236@outlook.com)**
+- 📫 How to reach me **[GitHub Email](mailto:timmy.1236@outlook.com)**, **[Telegram](https://t.me/timmy1236321)**
 
 - 🔗 Website **[timmy1236.me](https://timmy1236.me/)**
 
