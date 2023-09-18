@@ -1,19 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:22272e,50:557542,100:22272e&height=200&section=header&text=Hi+%F0%9F%91%8B%2C+%20I'm%20Timmy&fontAlignY=25&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=A%20lazy%20frontend%20and%20backend%20developer%20from%20Uruguay" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:22272e,50:295824,100:22272e&height=200&section=header&text=Timmy&fontAlignY=25&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=A%20lazy%20frontend%20and%20backend%20developer%20from%20Uruguay" />
 
 <h2>📄 About Me</h2>
-
-<img align="right" width="200" src="https://media.tenor.com/hEwfEcj2R60AAAAM/laptop-smoking.gif">
+Hi 👋, I'm Timmy, an ordinary programmer trying to learn how to be a fullstack, while trying to avoid... overengineering, something I'm not good.
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 🔭 I’m currently working on **Leafy**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Godot**
 
-- 📫 How to reach me **[GitHub Email](mailto:timmy.1236@outlook.com)**, **[Telegram](https://t.me/timmy1236321)**
+- 📫 How to reach me **[Email](mailto:timmy.1236@outlook.com)**, **[Telegram](https://t.me/timmy1236321)**
 
-- 🔗 Website **[timmy1236.me](https://timmy1236.me/)**
+- 🔗 My website **[timmy1236.me](https://timmy1236.me/)**
 
 <br>
-
 <details><summary><h2>⭐ Skills</h2></summary>
   <div align="center">
 <h4>Frontend</h4>
@@ -42,5 +41,3 @@
   <img src="https://github-readme-stats-timmy1236.vercel.app/api/wakatime?username=Timmy1236&theme=dracula&bg_color=0d1117&title_color=74bb73&hide_border=true&layout=compact&v=2"/>
   </div>
 </details>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:22272e,50:557542,100:22272e&height=200&section=footer" />
