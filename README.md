@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:22272e,50:295824,100:22272e&height=200&section=header&text=Timmy&fontAlignY=25&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=A%20lazy%20frontend%20and%20backend%20developer%20from%20Uruguay" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b0f2c2&height=200&section=header&text=Timmy&fontAlignY=25&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=A%20lazy%20frontend%20and%20backend%20developer%20from%20Uruguay" />
 
 <h2>📄 About Me</h2>
 Hi 👋, I'm Timmy, an ordinary programmer trying to learn how to be a fullstack, while trying to avoid... overengineering, something I'm not good.
