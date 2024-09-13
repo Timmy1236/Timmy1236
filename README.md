@@ -10,7 +10,7 @@ Hi 👋, I'm Timmy, an ordinary programmer trying to learn how to be a fullstack
 
 - 📫 How to reach me **[Email](mailto:timmy.1236@outlook.com)**, **[Telegram](https://t.me/timmy1236321)**
 
-- 🔗 My website **[timmy1236.me](https://timmy1236.me/)**
+- 🔗 My website **[timmy1236.github.io](https://timmy1236.github.io/)**
 
 <br>
 <details><summary><h2>⭐ Skills</h2></summary>
