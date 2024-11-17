@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b0f2c2&height=200&section=header&text=Timmy&fontAlignY=25&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=A%20lazy%20frontend%20and%20backend%20developer%20from%20Uruguay" />
 
 <h2>📄 About Me</h2>
-Hi 👋, I'm Timmy, an ordinary programmer trying to learn how to be a fullstack, while trying to avoid... overengineering, something I'm not good.
+Hi 👋, I'm Timmy, a newbie programmer trying to learn how to be a fullstack, while trying to avoid... "overengineering".
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 I’m currently working on **Leafy**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Godot**
+- 🌱 I’m currently learning **Nothing**
 
-- 📫 How to reach me **[Email](mailto:timmy.1236@outlook.com)**, **[Telegram](https://t.me/timmy1236321)**
+- 📫 How to reach me **[🦋 Bluesky](https://bsky.app/profile/timmy1236.bsky.social)**, **[🐦 Twitter](https://x.com/Timmy1236321)**, **[✉️ Email](mailto:nachodortta@hotmail.com)**
 
 - 🔗 My website **[timmy1236.github.io](https://timmy1236.github.io/)**
 
@@ -18,9 +18,11 @@ Hi 👋, I'm Timmy, an ordinary programmer trying to learn how to be a fullstack
 <h4>Frontend</h4>
     <img width="20%" src="https://skillicons.dev/icons?i=js,html,css"/>
     <h4>Backend</h4>
-    <img width="20%" src="https://skillicons.dev/icons?i=java,py,cs"/>
+    <img width="20%" src="https://skillicons.dev/icons?i=java,py,cs,dotnet,nodejs"/>
     <h4>Apps</h4>
-    <img width="30%" src="https://skillicons.dev/icons?i=vscode,eclipse,git,godot,unity"/> 
+    <img width="30%" src="https://skillicons.dev/icons?i=vscode,eclipse,git,godot,unity,blender"/>
+    <h4>OS</h4>
+    <img width="30%" src="https://skillicons.dev/icons?i=windows,redhat"/>
   </div>
 </details>
 
