@@ -6,7 +6,7 @@ Hi 👋, I'm Timmy, a newbie programmer trying to learn how to be a fullstack, w
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Nothing**
+- 🌱 I’m currently learning **Lua**
 
 - 📫 How to reach me **[🐦 Twitter](https://x.com/Timmy1236321)**, **[✉️ Email](mailto:nachodortta@hotmail.com)**
 
