@@ -8,7 +8,7 @@ Hi 👋, I'm Timmy, a newbie programmer trying to learn how to be a fullstack, w
 
 - 🌱 I’m currently learning **Nothing**
 
-- 📫 How to reach me **[🦋 Bluesky](https://bsky.app/profile/timmy1236.bsky.social)**, **[🐦 Twitter](https://x.com/Timmy1236321)**, **[✉️ Email](mailto:nachodortta@hotmail.com)**
+- 📫 How to reach me **[🐦 Twitter](https://x.com/Timmy1236321)**, **[✉️ Email](mailto:nachodortta@hotmail.com)**
 
 - 🔗 My website **[timmy1236.github.io](https://timmy1236.github.io/)**
 
