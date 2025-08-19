@@ -4,13 +4,13 @@
 Hi 👋, I'm Timmy, a newbie programmer trying to learn how to be a fullstack, while trying to avoid... "overengineering".
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Leafy**
 
 - 🌱 I’m currently learning **Lua**
 
 - 📫 How to reach me **[🐦 Twitter](https://x.com/Timmy1236321)**, **[✉️ Email](mailto:nachodortta@hotmail.com)**
 
-- 🔗 My website **[timmy1236.github.io](https://timmy1236.github.io/)**
+- 🔗 My website **[timmy.nekoweb](https://timmy.nekoweb.org/)**
 
 <br>
 <details><summary><h2>⭐ Skills</h2></summary>
