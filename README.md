@@ -1,17 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b0f2c2&height=200&section=header&text=Timmy&fontAlignY=25&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=A%20lazy%20frontend%20and%20backend%20developer%20from%20Uruguay" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b0f2c2&height=200&section=header&text=Timmy&fontAlignY=30&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=Lazy%20fullstack%20developer%20from%20Uruguay." />
 
-<h2>📄 About Me</h2>
-Hi 👋, I'm Timmy, a newbie programmer trying to learn how to be a fullstack, while trying to avoid... "overengineering".
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+- 🔗 | Website **[timmy.nekoweb](https://timmy.nekoweb.org/)**
 
-- 🔭 I’m currently working on **Leafy**
+- 💻 | Working on **Leafy**
 
-- 🌱 I’m currently learning **Lua**
+- 🧠 | Learning **C++**
 
-- 📫 How to reach me **[🐦 Twitter](https://x.com/Timmy1236321)**, **[✉️ Email](mailto:nachodortta@hotmail.com)**
 
-- 🔗 My website **[timmy.nekoweb](https://timmy.nekoweb.org/)**
-
+--- 
 <br>
 <details><summary><h2>⭐ Skills</h2></summary>
   <div align="center">
