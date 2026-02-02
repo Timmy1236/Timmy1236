@@ -1,14 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b0f2c2&height=200&section=header&text=Timmy&fontAlignY=30&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=Lazy%20fullstack%20developer%20from%20Uruguay." />
 
-- 🔗 | Website **[timmy.nekoweb](https://timmy.nekoweb.org/)**
-
-- 💻 | Working on **Leafy**
-
-- 🧠 | Learning **C++**
-
-
---- 
-<br>
 <details><summary><h2>⭐ Skills</h2></summary>
   <div align="center">
 <h4>Frontend</h4>
@@ -24,8 +15,15 @@
 
 <h1></h1>
 
-<details><summary><h2>👤 Discord</h2></summary>
+<details><summary><h2>👤 Sociales</h2></summary>
+
+<div align="center">  
+    <h3>Website</h3>
+    https://timmy.nekoweb.org
+  </div>
+  
   <div align="center">  
+    <h3>Discord</h3>
     <img src="https://lanyard.cnrad.dev/api/375889010419171328?theme=dark&bg=0d1117&idleMessage=Imagine%20there%20is%20a%20funny%20text%20here."/> 
   </div>
 </details>
@@ -39,3 +37,5 @@
   <img src="https://github-readme-stats-timmy1236.vercel.app/api/wakatime?username=Timmy1236&theme=dracula&bg_color=0d1117&title_color=74bb73&hide_border=true&layout=compact&v=2"/>
   </div>
 </details>
+
+<h1></h1>
